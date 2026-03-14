@@ -929,7 +929,7 @@ www.reddit.com##.block > award-button
 twitch.tv##.prime-offers
 twitch.tv##.extension-view__iframe
 twitch.tv##.headliner-ad
-twitch.tv##.front-page-carousel
+!twitch.tv##.front-page-carousel
 !twitch.tv##.channel-panels-container
 ! Animated Emotes; can be disabled in settings
 twitch.tv##.chat-input.bGyiZe.Layout-sc-1xcs6mc-0 > .Layout-sc-1xcs6mc-0
