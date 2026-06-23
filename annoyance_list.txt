@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 🛠️ yokoffing's Annoyance List
+! Title: 🛠️ yokoffing's Annoyance List - edit
 ! Description: Hide annoyances and extraneous page elements ("related articles", "read more", etc.) not covered by other lists
 ! Homepage: https://github.com/AtRestFog/filterlists
 ! Expires: 4 days (update frequency)
